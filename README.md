@@ -2,8 +2,7 @@
 
 A real-time, two-player multiplayer tic-tac-toe game built with Python, FastAPI and WebSockets.
 
-**Live demo:** _(link will be added after deployment)_
-
+**Live demo:** https://xox-online-abcd.onrender.com
 ## Features
 
 - Create a room and invite a friend with a room code or a shareable link
